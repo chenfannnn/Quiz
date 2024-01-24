@@ -1,0 +1,15 @@
+{
+    "name": "my question bank",
+    "questions": [
+        {
+            "question": "`",
+            "correctanswer": "1",
+            "assignedpoints": 1
+        },
+        {
+            "question": "2",
+            "correctanswer": "2",
+            "assignedpoints": 2
+        }
+    ]
+}
